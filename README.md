@@ -8,7 +8,7 @@ This is a [Flask](https://flask.palletsprojects.com/en/1.1.x/) app that serves a
 
 - Python
 - Flask 
-- Postgres
+- Postgres. 
 - TypeScript
 
 ## 💁‍♀️ How to use
